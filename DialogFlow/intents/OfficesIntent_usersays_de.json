@@ -1,0 +1,1128 @@
+[
+  {
+    "id": "e70a5520-7b5b-4e5a-8ed4-121f3674311f",
+    "data": [
+      {
+        "text": "geben Sie mir Informationen über die ",
+        "userDefined": false
+      },
+      {
+        "text": "werbung",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7d5127a1-dafb-4139-9e2b-740d4ab9571e",
+    "data": [
+      {
+        "text": "wie kann ich ein ",
+        "userDefined": false
+      },
+      {
+        "text": "Frauentaxi",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      },
+      {
+        "text": " reservieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5bafca35-b854-44ce-9154-dae8cadf7b9f",
+    "data": [
+      {
+        "text": "wie bekomme ich einen ",
+        "userDefined": false
+      },
+      {
+        "text": "Wohnsitz",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6376a4d4-2a3c-4b21-b07d-9363afdc9e0c",
+    "data": [
+      {
+        "text": "gib mir informationen über die ",
+        "userDefined": false
+      },
+      {
+        "text": "werbung",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8239d422-c697-409a-b42c-a5a9cd588198",
+    "data": [
+      {
+        "text": "um welche uhr  öffnet der ",
+        "userDefined": false
+      },
+      {
+        "text": "Meldeamt",
+        "meta": "@sys.any",
+        "alias": "office_time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2c188a33-b101-4f13-a985-720957801c71",
+    "data": [
+      {
+        "text": "wie becomme ich einen ",
+        "userDefined": false
+      },
+      {
+        "text": "wohnsitz",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2b3b2be9-6edd-4e65-b7f1-6e21ec3347b0",
+    "data": [
+      {
+        "text": "wie becomme ich die ",
+        "userDefined": false
+      },
+      {
+        "text": "frauennachtaxi",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "02e6276e-5019-461a-b1ae-939864aaddaa",
+    "data": [
+      {
+        "text": "gib mir Informationen über die ",
+        "userDefined": false
+      },
+      {
+        "text": "Bike Sharing",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e0a7043b-6735-4673-af4b-42c0eed369a0",
+    "data": [
+      {
+        "text": "wo finde ich ",
+        "userDefined": false
+      },
+      {
+        "text": "Karoline",
+        "meta": "@sys.any",
+        "alias": "person_name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Riffeser",
+        "meta": "@sys.any",
+        "alias": "person_lastname",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "184d8334-31e4-4fff-8073-3efb82df424d",
+    "data": [
+      {
+        "text": "Welche Ereignisse finden ",
+        "userDefined": false
+      },
+      {
+        "text": "heuten",
+        "meta": "@sys.date",
+        "alias": "event_singledate",
+        "userDefined": true
+      },
+      {
+        "text": " stadt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9e59d30a-0ea2-4d7f-99cc-123365868a0b",
+    "data": [
+      {
+        "text": "In welche Uhrzeiten ist der ",
+        "userDefined": false
+      },
+      {
+        "text": "Meldeamt",
+        "meta": "@sys.any",
+        "alias": "office_time",
+        "userDefined": true
+      },
+      {
+        "text": " offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ccc3b516-a385-4fd8-9723-cab490606c48",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "heute",
+        "meta": "@sys.date",
+        "alias": "event_singledate",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Konzerte",
+        "meta": "@sys.any",
+        "alias": "event_type",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ab2417f5-20d3-4b92-90f9-44997091fde3",
+    "data": [
+      {
+        "text": "Welche ",
+        "userDefined": false
+      },
+      {
+        "text": "Events",
+        "meta": "@sys.any",
+        "alias": "event_type",
+        "userDefined": true
+      },
+      {
+        "text": " findet ",
+        "userDefined": false
+      },
+      {
+        "text": "heute",
+        "meta": "@sys.date",
+        "alias": "event_singledate",
+        "userDefined": true
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "83432be7-dfbc-498a-9fe7-3bb1b42cbe15",
+    "data": [
+      {
+        "text": "Wo kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "Alber",
+        "meta": "@sys.any",
+        "alias": "person_name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Einstein",
+        "meta": "@sys.any",
+        "alias": "person_lastname",
+        "userDefined": true
+      },
+      {
+        "text": " finden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c514dc6f-c14e-49ed-aa6f-aa01a3fe9ffd",
+    "data": [
+      {
+        "text": "Um wie viel Uhr öffnet der ",
+        "userDefined": false
+      },
+      {
+        "text": "Meldeamt",
+        "meta": "@sys.any",
+        "alias": "office_time",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e08d864b-541e-4482-a7b2-778d9f5065d7",
+    "data": [
+      {
+        "text": "Welche ",
+        "userDefined": false
+      },
+      {
+        "text": "Ereignisse",
+        "meta": "@sys.any",
+        "alias": "event_type",
+        "userDefined": true
+      },
+      {
+        "text": " finden in der ",
+        "userDefined": false
+      },
+      {
+        "text": "nächsten Woche",
+        "meta": "@sys.date-period",
+        "alias": "event_date",
+        "userDefined": true
+      },
+      {
+        "text": " stadt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "66e4a6e6-16c1-47d0-9131-f1bdb34df24c",
+    "data": [
+      {
+        "text": "Welche Ereignisse finden ",
+        "userDefined": false
+      },
+      {
+        "text": "morgen",
+        "meta": "@sys.date",
+        "alias": "event_singledate",
+        "userDefined": true
+      },
+      {
+        "text": " stadt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e98fa86d-ca68-46eb-9fb3-942cb07a3db9",
+    "data": [
+      {
+        "text": "Welche ",
+        "userDefined": false
+      },
+      {
+        "text": "Musicereignisse",
+        "meta": "@sys.any",
+        "alias": "event_type",
+        "userDefined": true
+      },
+      {
+        "text": " gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ab023697-c744-4733-bb2f-427b363ca785",
+    "data": [
+      {
+        "text": "Welche ",
+        "userDefined": false
+      },
+      {
+        "text": "Musicereignisse",
+        "meta": "@sys.any",
+        "alias": "event_type",
+        "userDefined": true
+      },
+      {
+        "text": " finden in dieser ",
+        "userDefined": false
+      },
+      {
+        "text": "Woche",
+        "meta": "@sys.date-period",
+        "alias": "event_date",
+        "userDefined": true
+      },
+      {
+        "text": " stadt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ce028f40-5a4f-44b1-8e2a-10c0badfc96b",
+    "data": [
+      {
+        "text": "Welche ",
+        "userDefined": false
+      },
+      {
+        "text": "Kunstereignisse",
+        "meta": "@sys.any",
+        "alias": "event_type",
+        "userDefined": true
+      },
+      {
+        "text": " finden ",
+        "userDefined": false
+      },
+      {
+        "text": "heute",
+        "meta": "@sys.date",
+        "alias": "event_singledate",
+        "userDefined": true
+      },
+      {
+        "text": " stadt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "56081272-0f76-40b2-973f-06431710f53c",
+    "data": [
+      {
+        "text": "Welche ",
+        "userDefined": false
+      },
+      {
+        "text": "Musikereignisse",
+        "meta": "@sys.any",
+        "alias": "event_type",
+        "userDefined": true
+      },
+      {
+        "text": " gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "812499f8-7a19-42b7-8664-3ea97a5b38fd",
+    "data": [
+      {
+        "text": "Welche Ereignisse gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "am 17 November",
+        "meta": "@sys.date",
+        "alias": "event_singledate",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "692019ba-9f7f-449f-856c-61161dadcbf5",
+    "data": [
+      {
+        "text": "Um wieviel Uhr öffnet das ",
+        "userDefined": false
+      },
+      {
+        "text": "Meldeamt",
+        "meta": "@sys.any",
+        "alias": "office_room",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b7f2e40b-8c8a-4819-82f4-9eb169544562",
+    "data": [
+      {
+        "text": "Welche Öffnungszeiten hat das ",
+        "userDefined": false
+      },
+      {
+        "text": "Meldeamt",
+        "meta": "@sys.any",
+        "alias": "office_room",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "19e5059d-2c1e-4fba-8933-bf2aa0f61e8c",
+    "data": [
+      {
+        "text": "Welche ",
+        "userDefined": false
+      },
+      {
+        "text": "Kunstereignisse",
+        "meta": "@sys.any",
+        "alias": "event_type",
+        "userDefined": true
+      },
+      {
+        "text": " gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "dd7685c3-265f-450f-8809-a8936fa4d260",
+    "data": [
+      {
+        "text": "Welche Ereignisse finden ",
+        "userDefined": false
+      },
+      {
+        "text": "heute",
+        "meta": "@sys.date",
+        "alias": "event_singledate",
+        "userDefined": true
+      },
+      {
+        "text": " stadt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "389ea9a3-743a-4859-9b16-6b227d119d7e",
+    "data": [
+      {
+        "text": "Welche ",
+        "userDefined": false
+      },
+      {
+        "text": "Büros",
+        "meta": "@sys.any",
+        "alias": "list_general",
+        "userDefined": true
+      },
+      {
+        "text": " gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "01fd1bfa-cd4e-40d1-9790-78662732f60a",
+    "data": [
+      {
+        "text": "Welche ",
+        "userDefined": false
+      },
+      {
+        "text": "Abteilungen",
+        "meta": "@sys.any",
+        "alias": "list_general",
+        "userDefined": true
+      },
+      {
+        "text": " gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "af52ffab-c5b3-462c-ba80-348d80bf9af6",
+    "data": [
+      {
+        "text": "Welche ist die telefonnummer des ",
+        "userDefined": false
+      },
+      {
+        "text": "Meldeammtes",
+        "meta": "@sys.any",
+        "alias": "office_room",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "377a3786-5dbe-4032-b4f8-1aa3631bda50",
+    "data": [
+      {
+        "text": "Wer ist der ",
+        "userDefined": false
+      },
+      {
+        "text": "Bürgermeister",
+        "meta": "@sys.any",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "46af308c-a996-44e2-83c5-834a431952a1",
+    "data": [
+      {
+        "text": "Wie kann ich ein ",
+        "userDefined": false
+      },
+      {
+        "text": "Bürger",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      },
+      {
+        "text": " sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e4391b0c-a198-425a-930f-42623e1a860d",
+    "data": [
+      {
+        "text": "Welches Amt ist kompetent in der ",
+        "userDefined": false
+      },
+      {
+        "text": "Umwelt",
+        "meta": "@sys.any",
+        "alias": "office_tag",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "95b0998c-f675-4ca0-be19-de34a28c801e",
+    "data": [
+      {
+        "text": "Welches Amt befasst sich mit der ",
+        "userDefined": false
+      },
+      {
+        "text": "Umwelt",
+        "meta": "@sys.any",
+        "alias": "office_tag",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5f181221-fc99-4639-b693-9babf5abaed2",
+    "data": [
+      {
+        "text": "In welchem Raum befindet sich das Büro des ",
+        "userDefined": false
+      },
+      {
+        "text": "Personale",
+        "meta": "@sys.any",
+        "alias": "office_room",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8c971f82-e091-435d-ab08-3c8a50101582",
+    "data": [
+      {
+        "text": "Wo befindet sich das Büro der ",
+        "userDefined": false
+      },
+      {
+        "text": "Sozialdienste",
+        "meta": "@sys.any",
+        "alias": "office_room",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "cd53565a-e88c-45f7-9771-d5d9ff691ecc",
+    "data": [
+      {
+        "text": "Welches Büro ist kompetent in ",
+        "userDefined": false
+      },
+      {
+        "text": "Antikorruption",
+        "meta": "@sys.any",
+        "alias": "office_tag",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3b92f754-260f-4fce-9f6a-7be02e54d871",
+    "data": [
+      {
+        "text": "Wo befindet sich das Büro der ",
+        "userDefined": false
+      },
+      {
+        "text": "Mitarbeiter",
+        "meta": "@sys.any",
+        "alias": "office_room",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "df7a1546-2317-4060-a547-24f804d657ae",
+    "data": [
+      {
+        "text": "Welche ist die Email von ",
+        "userDefined": false
+      },
+      {
+        "text": "Alber",
+        "meta": "@sys.any",
+        "alias": "person_name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Einstein",
+        "meta": "@sys.any",
+        "alias": "person_lastname",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "af652446-e22b-4a2e-aeb9-e1da39a3cf3a",
+    "data": [
+      {
+        "text": "wo befindet sich das ",
+        "userDefined": false
+      },
+      {
+        "text": "Personalamt",
+        "meta": "@sys.any",
+        "alias": "office_room",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "cc9bb9d5-a151-41ab-b794-087f2a04c2fe",
+    "data": [
+      {
+        "text": "wer ist der ",
+        "userDefined": false
+      },
+      {
+        "text": "stellvertretender Bürgermeister",
+        "meta": "@sys.any",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a62f49ff-13be-4705-9847-d4f03e72a4f1",
+    "data": [
+      {
+        "text": "wer sind die ",
+        "userDefined": false
+      },
+      {
+        "text": "assessoren",
+        "meta": "@sys.any",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c41788a3-173c-4d90-bfff-85bbb70fa54e",
+    "data": [
+      {
+        "text": "Welche is die Telefonnummer von ",
+        "userDefined": false
+      },
+      {
+        "text": "Alber",
+        "meta": "@sys.any",
+        "alias": "person_name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Einstein",
+        "meta": "@sys.any",
+        "alias": "person_lastname",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "893bf64b-6310-48f1-991a-4146d33aa630",
+    "data": [
+      {
+        "text": "In welchen Büro kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "Albert",
+        "meta": "@sys.any",
+        "alias": "person_name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Einstein",
+        "meta": "@sys.any",
+        "alias": "person_lastname",
+        "userDefined": true
+      },
+      {
+        "text": " finden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6d0d6755-527b-41af-8aa1-d5e19e0ae1e4",
+    "data": [
+      {
+        "text": "Wer sind die ",
+        "userDefined": false
+      },
+      {
+        "text": "Assessoren",
+        "meta": "@sys.any",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5e2c8051-83fe-49a5-80f2-ea2a5ab717d3",
+    "data": [
+      {
+        "text": "Wer ist der ",
+        "userDefined": false
+      },
+      {
+        "text": "stellveräter des Bürgermeisters",
+        "meta": "@sys.any",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9653186c-8678-4405-8b01-ff4aa5f41045",
+    "data": [
+      {
+        "text": "Um welche Uhrzeiten ist das ",
+        "userDefined": false
+      },
+      {
+        "text": "Informatiksbüro",
+        "meta": "@sys.any",
+        "alias": "office_time",
+        "userDefined": true
+      },
+      {
+        "text": " offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

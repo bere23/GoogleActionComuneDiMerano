@@ -1,0 +1,212 @@
+{
+  "id": "3ad2a8b8-6377-4fdb-a1ea-31f2b3561953",
+  "name": "OfficesIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "office",
+      "affectedContexts": [
+        {
+          "name": "che",
+          "lifespan": 5
+        },
+        {
+          "name": "eventi",
+          "lifespan": 5
+        },
+        {
+          "name": "gib",
+          "lifespan": 5
+        },
+        {
+          "name": "mir",
+          "lifespan": 5
+        },
+        {
+          "name": "dcie",
+          "lifespan": 5
+        },
+        {
+          "name": "in",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "17ff4bb2-759f-4b98-a15a-b3690923b9aa",
+          "name": "office_tag",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$office_tag",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0127ba27-03e2-4cfb-9e79-9b24be35fe29",
+          "name": "office_room",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$office_room",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "94c02615-ae54-4be7-8c00-22ea850d5309",
+          "name": "list_general",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$list_general",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d296de46-2818-4dbd-af4d-86766918ca20",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9b7dc019-343a-478b-95f4-dfe300a3d362",
+          "name": "person_name",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$person_name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "200e7940-b51f-46a3-b470-6c0a01ae3988",
+          "name": "person_lastname",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$person_lastname",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f7bf9c2f-bbb4-49f0-b175-40ba87a7e071",
+          "name": "office_time",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$office_time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8a260515-0852-4a46-a9f8-5e39557cc83b",
+          "name": "event_type",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$event_type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a80f02d1-ffac-4d8f-b030-b63b9d8f7347",
+          "name": "event_date",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$event_date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5c9f820a-4ae6-4010-83fe-284163dc0b06",
+          "name": "event_singledate",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$event_singledate",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b4738123-c4da-44b5-b26b-ef5bc309bc0f",
+          "name": "services",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$services",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

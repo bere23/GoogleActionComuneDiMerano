@@ -1,0 +1,46 @@
+{
+  "id": "ffbc6d70-e145-4c8f-8ec7-0818a8267b67",
+  "parentId": "fb08ca45-f0c3-432d-8222-ff10283c3c6c",
+  "rootParentId": "fb08ca45-f0c3-432d-8222-ff10283c3c6c",
+  "name": "endConversationIntent - no",
+  "auto": true,
+  "contexts": [
+    "endConversationIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "endConversationIntent.endConversationIntent-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Ok"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

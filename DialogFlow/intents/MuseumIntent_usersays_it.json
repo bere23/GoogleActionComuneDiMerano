@@ -1,0 +1,109 @@
+[
+  {
+    "id": "b6ff0b1c-6126-47b6-825e-114e35aa4800",
+    "data": [
+      {
+        "text": "quali ",
+        "userDefined": false
+      },
+      {
+        "text": "musei ci sono a Merano",
+        "meta": "@sys.any",
+        "alias": "museum_list",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "70b6c0bd-c514-4d7d-ac59-55c7bf763033",
+    "data": [
+      {
+        "text": "quanto costa l\u0027ingresso al museo ",
+        "userDefined": false
+      },
+      {
+        "text": "delle donne",
+        "meta": "@sys.any",
+        "alias": "museum_name",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "eb95a992-6859-40e5-bbcb-b9036dcc0ab2",
+    "data": [
+      {
+        "text": "dove si trova il museo ",
+        "userDefined": false
+      },
+      {
+        "text": "delle donne",
+        "meta": "@sys.any",
+        "alias": "museum_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a95c0f2e-f948-48e2-957a-e19d98d663de",
+    "data": [
+      {
+        "text": "a che ora apre il museo ",
+        "userDefined": false
+      },
+      {
+        "text": "delle donne",
+        "meta": "@sys.any",
+        "alias": "museum_name",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "86194f6b-372f-40b8-b082-f60c07b98644",
+    "data": [
+      {
+        "text": "dammi informazioni sul museo ",
+        "userDefined": false
+      },
+      {
+        "text": "delle donne",
+        "meta": "@sys.any",
+        "alias": "museum_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

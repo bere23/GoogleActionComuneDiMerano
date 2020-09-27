@@ -1,2 +1,9 @@
 # GoogleActionComuneDiMerano
 Google Action per il Comune di Merano
+
+INSTALLAZIONE
+
+- Creare un database su un server MySql ed importare la struttura presente nella cartella SQL
+- Caricare su un server con PHP la cartella WebHook ed inserire la configurazione del database in dbconfig.php
+- Creare una nuova action su Google Action Console ed importare in DialogFlow il conenuto della cartella DialogFlow
+

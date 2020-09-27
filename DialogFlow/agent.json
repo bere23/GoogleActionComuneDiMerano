@@ -1,0 +1,79 @@
+{
+  "description": "",
+  "language": "it",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "ComuneDiMerano",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "3ad2a8b8-6377-4fdb-a1ea-31f2b3561953",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0f9dee2c-ced3-40f1-ab66-0821f891f813",
+        "signInRequired": false
+      },
+      {
+        "intentId": "1a009501-9e02-497f-95f8-79082f3af1e3",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c4183bab-6e93-4803-878f-6fbbfba44145",
+        "signInRequired": false
+      },
+      {
+        "intentId": "fb08ca45-f0c3-432d-8222-ff10283c3c6c",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Europe/Kaliningrad",
+  "webhook": {
+    "url": "https://server01.strayk.com/webhook/index.php",
+    "username": "",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [
+    "de"
+  ],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "1056971cdb8a4d0cb4ba488388998e0c",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": ""
+}

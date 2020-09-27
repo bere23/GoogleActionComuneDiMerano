@@ -1,0 +1,116 @@
+[
+  {
+    "id": "979d2297-b93d-4edd-a74d-e6370104dad7",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@sys.any",
+        "alias": "nr",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b4662a66-7a5d-4513-a779-7b57420ae524",
+    "data": [
+      {
+        "text": "la terza",
+        "meta": "@sys.any",
+        "alias": "nr",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5d9ac5ba-f442-47b1-b3a1-00a1071b5765",
+    "data": [
+      {
+        "text": "leggi la news nr ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.any",
+        "alias": "nr",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e4be4d6d-2ba8-484c-93c2-0b772fed7c64",
+    "data": [
+      {
+        "text": "leggi la notizia nr ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.any",
+        "alias": "nr",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "eab3141f-e9dc-4d86-971c-4ca1acaf329c",
+    "data": [
+      {
+        "text": "leggi ",
+        "userDefined": false
+      },
+      {
+        "text": "la seconda",
+        "meta": "@sys.any",
+        "alias": "nr",
+        "userDefined": true
+      },
+      {
+        "text": " notizia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8f2cb162-007e-4751-b64d-acdd9e5f5804",
+    "data": [
+      {
+        "text": "leggi ",
+        "userDefined": false
+      },
+      {
+        "text": "la seconda",
+        "meta": "@sys.any",
+        "alias": "nr",
+        "userDefined": true
+      },
+      {
+        "text": " news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

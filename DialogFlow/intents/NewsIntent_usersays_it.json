@@ -1,0 +1,72 @@
+[
+  {
+    "id": "5dbf4656-9a0b-4c84-89a8-74269e7705c8",
+    "data": [
+      {
+        "text": "leggimi le ultime notizie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b6cafdc8-e3d6-4c46-8f36-eb74ffafd723",
+    "data": [
+      {
+        "text": "quali sono le notizie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "01b4fdbd-8e02-4564-a4e7-e3e6b0660831",
+    "data": [
+      {
+        "text": "dimmi le notizie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ed5b7979-4c81-4bee-bdb0-bf8e57ce4dfa",
+    "data": [
+      {
+        "text": "dammi le ultime notizie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "29d7d8b9-84ae-415f-ba5f-8cc222b6b081",
+    "data": [
+      {
+        "text": "quali",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " sono le ultime notizie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

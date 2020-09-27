@@ -1,0 +1,94 @@
+[
+  {
+    "id": "b0617c55-2587-43ca-aad1-0ab4e1601289",
+    "data": [
+      {
+        "text": "wo befindet sich das ",
+        "userDefined": false
+      },
+      {
+        "text": "Jüdisches",
+        "meta": "@sys.any",
+        "alias": "museum_name",
+        "userDefined": true
+      },
+      {
+        "text": " Museum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "92d6b1ba-a415-4538-88a9-63f6526e1b3c",
+    "data": [
+      {
+        "text": "Um wie viel Uhr öffnet das ",
+        "userDefined": false
+      },
+      {
+        "text": "Frauenmuseum",
+        "meta": "@sys.any",
+        "alias": "museum_name",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b537da66-dc3e-46bc-a573-1725c5f109ff",
+    "data": [
+      {
+        "text": "Wie teuer ist der Eintrit ins ",
+        "userDefined": false
+      },
+      {
+        "text": "Frauenmuseums",
+        "meta": "@sys.any",
+        "alias": "museum_name",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6ca099a3-7174-4c88-a8e6-dff3462590bc",
+    "data": [
+      {
+        "text": "Welche ",
+        "userDefined": false
+      },
+      {
+        "text": "Museen gibt es in Meran",
+        "meta": "@sys.any",
+        "alias": "museum_list",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

@@ -1,0 +1,1231 @@
+[
+  {
+    "id": "8b41eedf-4ffa-49bc-a674-b14f82cc955e",
+    "data": [
+      {
+        "text": "dammi informazioni sul ",
+        "userDefined": false
+      },
+      {
+        "text": "bike sharing",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8265e9ce-e1d8-4b62-9f04-173fad6ec3e5",
+    "data": [
+      {
+        "text": "parlami del ",
+        "userDefined": false
+      },
+      {
+        "text": "testamento biologico",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a79a03ff-c7cd-4bba-85dd-9cfcac5c5a98",
+    "data": [
+      {
+        "text": "come posso fare un ",
+        "userDefined": false
+      },
+      {
+        "text": "matrimonio civile",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "20c5bc05-6bd6-4e4f-8d75-e8a546fa5ea2",
+    "data": [
+      {
+        "text": "Parlami degli ",
+        "userDefined": false
+      },
+      {
+        "text": "espropri",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d5ea491f-1a12-494a-915d-5e7e16127121",
+    "data": [
+      {
+        "text": "come posso avere la ",
+        "userDefined": false
+      },
+      {
+        "text": "cittadinanza",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "066541a5-824e-4c79-b0e3-d24e1faf7e96",
+    "data": [
+      {
+        "text": "voglio informazioni sulla ",
+        "userDefined": false
+      },
+      {
+        "text": "carta d\u0027identità",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7e01e337-d33a-40ed-8510-cc38e15cc95f",
+    "data": [
+      {
+        "text": "dammi delle informazioni sulla ",
+        "userDefined": false
+      },
+      {
+        "text": "carta d\u0027identità",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "abad373e-367b-4d30-b0f0-e66a7a06a78f",
+    "data": [
+      {
+        "text": "come posso avere un ",
+        "userDefined": false
+      },
+      {
+        "text": "alloggio sociale",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1b299651-a445-476d-9ad1-ae5826768a20",
+    "data": [
+      {
+        "text": "come faccio ad avere una ",
+        "userDefined": false
+      },
+      {
+        "text": "carta d\u0027identità",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "70809cb0-2019-43bb-8cb0-51aa00f8ea4a",
+    "data": [
+      {
+        "text": "parlami dei ",
+        "userDefined": false
+      },
+      {
+        "text": "cani",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5e6c7ee4-7d99-4610-8c2b-b10846a7a2d2",
+    "data": [
+      {
+        "text": "Dammi informazioni sui ",
+        "userDefined": false
+      },
+      {
+        "text": "cani",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a51cdd3c-abda-4464-97de-1d6f934f206a",
+    "data": [
+      {
+        "text": "parlami dell\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "arte di strada",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a5d0da1a-548b-49a3-a09c-a3564a8b7312",
+    "data": [
+      {
+        "text": "come devo fare per avere ",
+        "userDefined": false
+      },
+      {
+        "text": "un alloggio sociale",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1a6d6cf2-d4da-4db9-a569-1970f79db6e2",
+    "data": [
+      {
+        "text": "Dammi informazioni sugli ",
+        "userDefined": false
+      },
+      {
+        "text": "alloggi",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "dedcf33f-b59a-4b38-9030-cdb61f31f944",
+    "data": [
+      {
+        "text": "che orari fa l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "anagrafe",
+        "meta": "@sys.any",
+        "alias": "office_time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "860bce3c-b0da-414e-93c9-3f5be2a2b3fe",
+    "data": [
+      {
+        "text": "Dammi informazioni sulla ",
+        "userDefined": false
+      },
+      {
+        "text": "carta servizi",
+        "meta": "@sys.any",
+        "alias": "services",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "27c617a4-727b-4f78-9aac-6dee33f713c8",
+    "data": [
+      {
+        "text": "che orari fa l\u0027ufficio ",
+        "userDefined": false
+      },
+      {
+        "text": "informatico",
+        "meta": "@sys.any",
+        "alias": "office_time",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0d809faa-2f8f-4b4f-98e2-cdcd98598474",
+    "data": [
+      {
+        "text": "che eventi ci sono il ",
+        "userDefined": false
+      },
+      {
+        "text": "17 novembre",
+        "meta": "@sys.date",
+        "alias": "event_singledate",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a4c165f8-d062-46bd-97a8-efe75099cc8f",
+    "data": [
+      {
+        "text": "che eventi ci sono di ",
+        "userDefined": false
+      },
+      {
+        "text": "arte",
+        "meta": "@sys.any",
+        "alias": "event_type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "783572e5-5fb0-40f6-ad9a-42ff748ea47b",
+    "data": [
+      {
+        "text": "che eventi di ",
+        "userDefined": false
+      },
+      {
+        "text": "arte",
+        "meta": "@sys.any",
+        "alias": "event_type",
+        "userDefined": true
+      },
+      {
+        "text": " ci sono ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "meta": "@sys.date",
+        "alias": "event_singledate",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "01bb2e34-d30f-4f55-b304-86f462e91f5f",
+    "data": [
+      {
+        "text": "quali eventi di ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "meta": "@sys.any",
+        "alias": "event_type",
+        "userDefined": true
+      },
+      {
+        "text": " ci sono ",
+        "userDefined": false
+      },
+      {
+        "text": "questa settimana",
+        "meta": "@sys.date-period",
+        "alias": "event_date",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "69e0ae94-ee44-4c68-87b6-4d14c13e7b1f",
+    "data": [
+      {
+        "text": "quali eventi di ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "meta": "@sys.any",
+        "alias": "event_type",
+        "userDefined": true
+      },
+      {
+        "text": " ci sono?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "345ccf1d-28ac-4759-8347-11898f4b8668",
+    "data": [
+      {
+        "text": "quali eventi ci sono ",
+        "userDefined": false
+      },
+      {
+        "text": "domani",
+        "meta": "@sys.date",
+        "alias": "event_singledate",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "23571d39-c7d4-419a-b713-69fb4733837a",
+    "data": [
+      {
+        "text": "quali eventi ci sono la ",
+        "userDefined": false
+      },
+      {
+        "text": "prossima settimana",
+        "meta": "@sys.date-period",
+        "alias": "event_date",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9fa6deeb-7b08-4e69-8da1-fa8471c72c84",
+    "data": [
+      {
+        "text": "quali sono gli orari dell\u0027ufficio ",
+        "userDefined": false
+      },
+      {
+        "text": "anagrafe",
+        "meta": "@sys.any",
+        "alias": "office_time",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "570bcad2-39a2-4932-82ae-80d19cbdf112",
+    "data": [
+      {
+        "text": "a che ora apre l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "anagrafe",
+        "meta": "@sys.any",
+        "alias": "office_time",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "69ee779b-5543-474b-ab5d-1ccb96282898",
+    "data": [
+      {
+        "text": "dove trovo ",
+        "userDefined": false
+      },
+      {
+        "text": "Oliviero",
+        "meta": "@sys.any",
+        "alias": "person_name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ferrari",
+        "meta": "@sys.any",
+        "alias": "person_lastname",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6ce32a05-9bfc-4fad-8b27-9e208a191a3b",
+    "data": [
+      {
+        "text": "quali sono gli orari dell\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "anagrafe",
+        "meta": "@sys.any",
+        "alias": "office_time",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "60ffde03-31d9-4914-ac4c-780af80c9e0f",
+    "data": [
+      {
+        "text": "chi è il ",
+        "userDefined": false
+      },
+      {
+        "text": "vicesindaco",
+        "meta": "@sys.any",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d74a9db1-96e8-45b6-a51c-7f92b3df86ea",
+    "data": [
+      {
+        "text": "chi sono gli ",
+        "userDefined": false
+      },
+      {
+        "text": "assessori",
+        "meta": "@sys.any",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "68d6100b-17a0-4452-bb09-9b3e0929fc53",
+    "data": [
+      {
+        "text": "in quale ufficio trovo ",
+        "userDefined": false
+      },
+      {
+        "text": "albert",
+        "meta": "@sys.any",
+        "alias": "person_name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "einstein",
+        "meta": "@sys.any",
+        "alias": "person_lastname",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5805cbe4-699f-40ac-9eca-4e117e414962",
+    "data": [
+      {
+        "text": "qual\u0027è il numero di telefono di ",
+        "userDefined": false
+      },
+      {
+        "text": "albert",
+        "meta": "@sys.any",
+        "alias": "person_name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "einstein",
+        "meta": "@sys.any",
+        "alias": "person_lastname",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "62d1b35a-479a-4968-bfbb-ac291c24d1c6",
+    "data": [
+      {
+        "text": "che numero di telefono ha ",
+        "userDefined": false
+      },
+      {
+        "text": "albert",
+        "meta": "@sys.any",
+        "alias": "person_name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "einstein",
+        "meta": "@sys.any",
+        "alias": "person_lastname",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7db6d11d-222c-41f1-be71-448cfc576d05",
+    "data": [
+      {
+        "text": "quale email ha ",
+        "userDefined": false
+      },
+      {
+        "text": "albert",
+        "meta": "@sys.any",
+        "alias": "person_name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "einstein",
+        "meta": "@sys.any",
+        "alias": "person_lastname",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a880630d-19ec-4d3b-8559-77fcead0f39f",
+    "data": [
+      {
+        "text": "Dove si trova l\u0027ufficio di ",
+        "userDefined": false
+      },
+      {
+        "text": "Isaac Asimov",
+        "meta": "@sys.any",
+        "alias": "person_name",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f2b75d64-7074-48ef-928b-09e2e8c47010",
+    "data": [
+      {
+        "text": "quale numero di telefono ha ",
+        "userDefined": false
+      },
+      {
+        "text": "albert",
+        "meta": "@sys.any",
+        "alias": "person_name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "einstein",
+        "meta": "@sys.any",
+        "alias": "person_lastname",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7840d81d-12f3-40e3-8887-2bf939cc4136",
+    "data": [
+      {
+        "text": "quale email ha ",
+        "userDefined": false
+      },
+      {
+        "text": "albert",
+        "meta": "@sys.any",
+        "alias": "person_name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "einstein",
+        "meta": "@sys.any",
+        "alias": "person_lastname",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7e7983fb-644f-4b0c-abdc-73db0688fc55",
+    "data": [
+      {
+        "text": "dove trovo ",
+        "userDefined": false
+      },
+      {
+        "text": "albert",
+        "meta": "@sys.any",
+        "alias": "person_name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "einstein",
+        "meta": "@sys.any",
+        "alias": "person_lastname",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "13c4bb2c-bf8d-4a33-9ce0-0f59b42014b9",
+    "data": [
+      {
+        "text": "dove si trova l\u0027ufficio ",
+        "userDefined": false
+      },
+      {
+        "text": "personale",
+        "meta": "@sys.any",
+        "alias": "office_room",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5bb0fb48-23ed-4bf8-b5d8-739ed19d85ae",
+    "data": [
+      {
+        "text": "quale è l\u0027ufficio competente in ",
+        "userDefined": false
+      },
+      {
+        "text": "anticorruzione",
+        "meta": "@sys.any",
+        "alias": "office_tag",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8f2b5a57-ccbe-4d12-9ef7-65f4d5aca479",
+    "data": [
+      {
+        "text": "quale ufficio si occupa di ",
+        "userDefined": false
+      },
+      {
+        "text": "edilizia",
+        "meta": "@sys.any",
+        "alias": "office_tag",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8cb1bee9-8355-4dda-a014-57a48e18f77e",
+    "data": [
+      {
+        "text": "dove si trova il servizio ",
+        "userDefined": false
+      },
+      {
+        "text": "patrimonio",
+        "meta": "@sys.any",
+        "alias": "office_room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5666527a-9204-4087-a893-fb9155cf2056",
+    "data": [
+      {
+        "text": "dove si trova l\u0027ufficio ",
+        "userDefined": false
+      },
+      {
+        "text": "servizi sociali",
+        "meta": "@sys.any",
+        "alias": "office_room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "28868f2c-6c67-4a15-96c1-e212d133d729",
+    "data": [
+      {
+        "text": "in quale stanza c\u0027è l\u0027ufficio ",
+        "userDefined": false
+      },
+      {
+        "text": "personale",
+        "meta": "@sys.any",
+        "alias": "office_room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "60f0cc3f-2ac1-48c2-ba3b-271926a4bc77",
+    "data": [
+      {
+        "text": "quale ufficio si occupa di ",
+        "userDefined": false
+      },
+      {
+        "text": "tributi",
+        "meta": "@sys.any",
+        "alias": "office_tag",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e92389d9-dc1b-4c52-a1e1-ce1d695a8bed",
+    "data": [
+      {
+        "text": "chi è il ",
+        "userDefined": false
+      },
+      {
+        "text": "sindaco?",
+        "meta": "@sys.any",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "af1eabdf-557c-482e-84b3-64ff2b99daf2",
+    "data": [
+      {
+        "text": "in quale stanza è l\u0027ufficio ",
+        "userDefined": false
+      },
+      {
+        "text": "personale",
+        "meta": "@sys.any",
+        "alias": "office_room",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "43cde2bb-18e5-4450-9779-41f8e4bde8d2",
+    "data": [
+      {
+        "text": "dove si trova l\u0027ufficio ",
+        "userDefined": false
+      },
+      {
+        "text": "controlli gestionali",
+        "meta": "@sys.any",
+        "alias": "office_room",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8c64f5ae-40d6-4904-bb21-9532948da2be",
+    "data": [
+      {
+        "text": "quale è il numero di telefono dell\u0027ufficio ",
+        "userDefined": false
+      },
+      {
+        "text": "anagrafe",
+        "meta": "@sys.any",
+        "alias": "office_room",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f64fa1d3-c94a-4bb8-9d30-ad3d577bcf57",
+    "data": [
+      {
+        "text": "quale ufficio è competente in ",
+        "userDefined": false
+      },
+      {
+        "text": "anticorruzione",
+        "meta": "@sys.any",
+        "alias": "office_tag",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c32cbb78-2c3b-4a01-9799-6c0cff6c886e",
+    "data": [
+      {
+        "text": "quali sono le ",
+        "userDefined": false
+      },
+      {
+        "text": "ripartizioni",
+        "meta": "@sys.any",
+        "alias": "list_general",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1ad020ac-0a6f-4dc5-b531-1241ab98c8e8",
+    "data": [
+      {
+        "text": "chi è ",
+        "userDefined": false
+      },
+      {
+        "text": "Oliviero",
+        "meta": "@sys.any",
+        "alias": "person_name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ferrari",
+        "meta": "@sys.any",
+        "alias": "person_lastname",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "39f46993-0356-4450-a0d6-8174a0218c89",
+    "data": [
+      {
+        "text": "quali sono gli ",
+        "userDefined": false
+      },
+      {
+        "text": "uffici",
+        "meta": "@sys.any",
+        "alias": "list_general",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

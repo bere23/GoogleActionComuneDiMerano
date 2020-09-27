@@ -1,0 +1,96 @@
+[
+  {
+    "data": [
+      {
+        "text": "die ",
+        "userDefined": false
+      },
+      {
+        "text": "dritte",
+        "meta": "@sys.any",
+        "alias": "nr",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "lies die ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.any",
+        "alias": "nr",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "lies die ",
+        "userDefined": false
+      },
+      {
+        "text": "dritte",
+        "meta": "@sys.any",
+        "alias": "nr",
+        "userDefined": true
+      },
+      {
+        "text": " News",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "lies die ",
+        "userDefined": false
+      },
+      {
+        "text": "zweite",
+        "meta": "@sys.any",
+        "alias": "nr",
+        "userDefined": true
+      },
+      {
+        "text": " Nachrichte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "4",
+        "meta": "@sys.any",
+        "alias": "nr",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

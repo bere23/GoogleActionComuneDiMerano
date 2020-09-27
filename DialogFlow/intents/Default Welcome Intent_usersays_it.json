@@ -1,0 +1,106 @@
+[
+  {
+    "id": "8b7163a9-bd76-4727-bf8b-6fc218ba2870",
+    "data": [
+      {
+        "text": "ciao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e4869ebd-ebe5-488f-9d47-d359fa21387e",
+    "data": [
+      {
+        "text": "ciao ciao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d20fa84d-faa0-437a-8779-b3f12e71fe45",
+    "data": [
+      {
+        "text": "ciao bello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "30ad886c-468f-42d3-a2fc-282f429ad173",
+    "data": [
+      {
+        "text": "ciao bella",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9c8453ff-2369-431f-aad2-39cc27b232fb",
+    "data": [
+      {
+        "text": "ciao caro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5f488a46-5851-414e-91aa-e77993a2e43b",
+    "data": [
+      {
+        "text": "ciao cara",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c7f42162-4a90-493d-b4ec-824e471aec59",
+    "data": [
+      {
+        "text": "salve",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a282ce3d-df7c-4c4d-843a-0df0637bcaa0",
+    "data": [
+      {
+        "text": "ehi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

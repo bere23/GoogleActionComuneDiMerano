@@ -1,0 +1,86 @@
+[
+  {
+    "id": "425930a2-94cf-4890-8f69-a3b9cd3cdd20",
+    "data": [
+      {
+        "text": "oggi",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " che farmacia di turno c\u0027è?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d9357e4c-1d20-4653-8ecd-2cbcb625d4cb",
+    "data": [
+      {
+        "text": "che farmacia è di turno ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4535af62-ead9-4ae9-9b94-286b976c4a72",
+    "data": [
+      {
+        "text": "oggi",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " quale è la farmacia di turno?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "00c4a7c3-cdb0-45c1-a277-5aa826493d74",
+    "data": [
+      {
+        "text": "quale farmacia è di turno ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

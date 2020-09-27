@@ -1,0 +1,47 @@
+{
+  "id": "a1f07568-055f-4e03-895c-ab10ca4da10f",
+  "parentId": "fb08ca45-f0c3-432d-8222-ff10283c3c6c",
+  "rootParentId": "fb08ca45-f0c3-432d-8222-ff10283c3c6c",
+  "name": "endConversationIntent - yes",
+  "auto": true,
+  "contexts": [
+    "endConversationIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "endConversationIntent.endConversationIntent-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "E\u0027 stato un piacere parlare con te"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

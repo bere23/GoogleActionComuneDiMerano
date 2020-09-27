@@ -1,0 +1,108 @@
+[
+  {
+    "id": "9ee1aa62-245f-4118-9e08-bb58396df71f",
+    "data": [
+      {
+        "text": "gib",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mir die Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2ac436d0-14ae-484f-953a-9f11143d935e",
+    "data": [
+      {
+        "text": "gib",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mir die letzten Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ee52012d-95de-4031-a067-f9418d3eb9e9",
+    "data": [
+      {
+        "text": "Welche sind die letzten Nachrichten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fe13681a-4fde-44e5-9685-e0b0d1729fe7",
+    "data": [
+      {
+        "text": "Gebe mir die letzten Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "685944c0-2cd5-46c6-928c-6b4e633b2c7c",
+    "data": [
+      {
+        "text": "Gebe mir die Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7a91740c-4ef9-4ad8-82e4-7da871f8920d",
+    "data": [
+      {
+        "text": "Welche sind die Nachrichten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "585c8d13-3a10-4458-9fb8-b9b4b191086c",
+    "data": [
+      {
+        "text": "Lese",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mir die letzten Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]
