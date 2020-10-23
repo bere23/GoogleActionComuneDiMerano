@@ -7,3 +7,17 @@ INSTALLAZIONE
 - Caricare su un server con PHP la cartella WebHook ed inserire la configurazione del database in dbconfig.php
 - Creare una nuova action su Google Action Console ed importare in DialogFlow il conenuto della cartella DialogFlow
 
+
+=====
+
+Nome Progetto: MERIDIA - MERano Innovazione DIgitale Accessibile
+
+Codice Progetto: FESR2026
+
+CUP: G39G17000250005
+
+CIG: Z0D28E4BEC
+
+
+![alt text](LogoFondoEuropeo.jpg)
+![alt text](LogoComuneMerano.jpg)
