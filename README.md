@@ -10,6 +10,9 @@ INSTALLAZIONE
 
 =====
 
+iniziativa svolta nell’ambito del Progetto “MERIDIA” realizzato grazie al sostegno del Fondo europeo di sviluppo regionale (FESR) e della Provincia Autonoma di Bolzano
+
+
 Nome Progetto: MERIDIA - MERano Innovazione DIgitale Accessibile
 
 Codice Progetto: FESR2026
