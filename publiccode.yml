@@ -1,0 +1,103 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+categories:
+  - service-desk
+  - help-desk
+  - knowledge-management
+description:
+  it:
+    features:
+      - Comprensione testo
+    genericName: Google Action
+    longDescription: |2
+       Il presente progetto prevede l’uso dell’assistente vocale di Google per l’interazione con i dati del comune di Merano. 
+
+      La scelta è ricaduta su Google in quanto fornisce l’ambiente di sviluppo
+      più completo e permette di gestire simultaneamente più lingue.
+
+       Il linguaggio di programmazione utilizzato è PHP.
+
+      Il sistema di riconoscimento del linguaggio naturale invece viene gestito
+      dalla piattaforma di Google Dialogflow, che rende accessibile in maniera
+      intuitiva algoritmi di intelligenza artificiale.
+
+
+      Come database per l’archiviazione delle informazioni è stato scelto MySql
+      in quanto Opensource, di semplice gestione e viene usato dalla maggior
+      parte dei siti online.
+
+
+      Il sistema quindi richiede: registrazione (gratuita) sulla piattaforma
+      Actions Google e Dialogflow Google, un server su cui far girare il modulo
+      PHP Webhook ed un database MySql.
+
+
+      Esempi di richieste: 
+
+
+      chi è il sindaco? 
+
+
+      quale ufficio si occupa di ambiente? 
+
+
+      dammi informazioni sulle mense 
+
+
+      come posso avere la cittadinanza? 
+
+
+      dove trovo <nome della persona>? 
+
+
+      qual'è la farmacia di turno domani? 
+
+
+      quando apre il museo delle donne? 
+
+
+      quali eventi ci sono oggi?
+
+
+      ​
+    shortDescription: |-
+      Il presente progetto prevede l’uso dell’assistente vocale di Google per
+      l’interazione con i dati del Comune di Merano da parte dei cittadini.  
+developmentStatus: stable
+intendedAudience:
+  countries:
+    - it
+it:
+  conforme:
+    gdpr: true
+    lineeGuidaDesign: true
+    misureMinimeSicurezza: true
+    modelloInteroperabilita: true
+  countryExtensionVersion: '0.2'
+  piattaforme:
+    anpr: false
+    cie: false
+    pagopa: false
+    spid: false
+legal:
+  license: MIT-0
+localisation:
+  availableLanguages:
+    - it
+    - de
+  localisationReady: false
+maintenance:
+  contacts:
+    - email: roberto.colonello@brainmatching.com
+      name: Roberto Colonello
+  type: internal
+name: Google Action Comune di Merano
+platforms:
+  - web
+releaseDate: '2020-09-30'
+softwareType: addon
+softwareVersion: '1.0'
+url: 'https://github.com/comunedimerano/GoogleActionComuneDiMerano'
